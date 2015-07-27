@@ -1,0 +1,13 @@
+# Site settings
+title: COSI Meeting Minutes
+email: lannonbr@clarkson.edu
+description: > # this means to ignore newlines until "baseurl:"
+    This page hosts all of the Meeting minutes that used
+    to be on COSI's wiki. Meetings are held every Wednesday
+    while school is in session.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cosi-lab.github.io/meeting-minutes/" # the base hostname & protocol for your site
+github_username:  cosi-lab
+
+# Build settings
+markdown: kramdown
