@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	"Meeting Minutes: September 3"
-date: 	2009-09-03 00:00:00
+date: 	2009-09-03 19:00:00
 categories: minutes
 ---
 
