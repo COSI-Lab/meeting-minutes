@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 	"Meeting Minutes: October 1"
-date: 	2009-10-01 19:00:00
 categories: minutes
 ---
 
-##Announcements
+#Announcements
 
 - Open house this weekend (in the labs and a table during the activities fair around lunch time)
 - ACM Programming contest practice on 11th and 13th
@@ -13,35 +12,35 @@ categories: minutes
 
 ---
 
-##Project Status
+#Project Status
 
-#OSCAR
+##OSCAR
 
 - Challenge/response authentication
 - Close to having a release (being held up by window manager issues)
 - Looking for people to work with web technologies or people interested in making VMs 
 
-#Honeypot
+##Honeypot
 
 - Held up on OIT/Firewall
 - Will route request through Matt 
 
-#Spy Watch
+##Spy Watch
 
 - Status pending 
 
-#OSP
+##OSP
 
 - Added support for distributing application binaries to local node for quicker execution
 - Started development of a read-optimized distributed DB to keep the caching layer slimmer 
 
-#Other
+##Other
 
 - Jacob proposed creating a mini-web bit-torrent tracker that would seed from a web host 
 
 ---
 
-##Presentations/Requests
+#Presentations/Requests
 
 
 - Erlang by Jacob

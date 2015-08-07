@@ -1,17 +1,16 @@
 ---
 layout: post
 title: 	"Meeting Minutes: September 3"
-date: 	2009-09-03 19:00:00
 categories: minutes
 ---
 
-##Announcements
+#Announcements
 - Reintroductions (sp?)
 - Trying to take minutes on The Wiki
 
 ---
 
-##Lightning Talks
+#Lightning Talks
 
 - Todd - deshantm
 - Erin - kennede
@@ -19,9 +18,9 @@ categories: minutes
 
 ---
 
-##Projects
+#Projects
 
-#Resurrected
+##Resurrected
 - Honeypot (collect malware from attackers) - appletrp
 - Sociable Robotics (AI is awesome) - kennede
 - OSCKAR (play with malware in an enclosed enviornment) - deshantm, wilburpf
@@ -33,11 +32,11 @@ categories: minutes
 - OSP - torreyji
 - FANG - torreyji 
 
-#Infrastructure
+##Infrastructure
 - Linux builds (prior experience not required) - huwj, shephezj
 - SODA FUNd (we put the FUN in SODA) - wilburpf 
 
-#Project ideas
+##Project ideas
 - We have resources! Just ask... - User:shephezj,User:jnm
   - Servers
   - Lab/research boxes 
@@ -49,9 +48,9 @@ categories: minutes
 
 ---
 
-##Presentation Request/Offers/Ideas
+#Presentation Request/Offers/Ideas
 
-#Workshop presentations (~one hour long, usually after meetings)
+##Workshop presentations (~one hour long, usually after meetings)
 - SoftwareFreedom.org people (legalities and legal issues involving FOSS) - wilburpf
 - Nessus - Gula
 - Snort - Marty
@@ -66,21 +65,21 @@ categories: minutes
 - Git - torreyji
 - ++Ksplice and DKMS (default in Ubuntu 9.10) 
 
-#Lightning talks
+##Lightning talks
 - Game of Life - kennede
 - LiveCDs - clappcj (NEXT WEEK)
 - BladeCenter - mccarrms 
 
 ---
 
-##Mentors
+#Mentors
 
-#General information
+##General information
 - Not allowed to laugh at you, but might laugh with your mistakes
 - Direct you to useful information/people
 - Accountability partner 
 
 ---
 
-##Coding Sessions
+#Coding Sessions
 - Tuesdays and Thursdays from 8pm-10pm. Bring your homework and party! 

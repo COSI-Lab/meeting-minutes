@@ -1,32 +1,31 @@
 ---
 layout: post
 title: 	"Meeting Minutes: January 28"
-date: 	2010-01-28 19:00:00
 categories: minutes
 ---
 
-##Announcements
+#Announcements
 
 - Zach says: If one pc is research and one is usable as a lab pc, then use a KVM. 
 
 ---
 
-##Project Status
+#Project Status
 
-#Procedural Graphics Engine
+##Procedural Graphics Engine
 
 - Having the start or reliable content generation 
 
-#Digital Lifelines
+##Digital Lifelines
 
 - Ryan is going to try and get it working on his Droid
 - Random lightning talk from Jeanna on Digital Lifelines 
 
 ---
 
-##New Projects
+#New Projects
 
-#Clarkson University - SUNY ESF Collaboration in Environmental Science, Mathematics, and Computer Science
+##Clarkson University - SUNY ESF Collaboration in Environmental Science, Mathematics, and Computer Science
 
 - Looking for people to work on an open source web system to allow anyone to get PRISM Data
   - In the background, have percipitation data and temp. data for the Adirondack Park and want to allow researchers/policy managers to be able to get data for any given point at any point in time with the 100+ years of data that they have 
@@ -35,7 +34,7 @@ categories: minutes
 
 ---
 
-##Presentations
+#Presentations
 
 - Jeanna is willing to do a lightning talk on open government sites
 - Planning a presentation from requested presentations 

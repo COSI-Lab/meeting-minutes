@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 	"Meeting Minutes: August 25"
-date: 	2010-08-25 19:00:00
 categories: minutes
 ---
 

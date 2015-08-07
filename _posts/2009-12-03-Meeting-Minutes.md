@@ -1,23 +1,22 @@
 ---
 layout: post
 title:  "Meeting Minutes: December 3"
-date:   2009-12-03 19:00:00
 categories: minutes
 ---
 
-##Announcements
+#Announcements
 
 - Professor Wilke is looking for a student interested in working with ORSEE. Contact Jeanna if interested. 
 
 ---
 
-##Project Status
+#Project Status
 
 - Todd put together a ChromeOS Build last week. It's running. Contact him for more information.
 - Todd is looking into having the malware crawler run in parallel 
 
 ---
 
-##Other
+#Other
 
 - End-of-semester presentations were held 

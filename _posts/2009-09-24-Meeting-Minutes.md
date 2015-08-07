@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 	"Meeting Minutes: September 24"
-date: 	2009-09-24 19:00:00
 categories: minutes
 ---
 
-##Announcements
+#Announcements
 
 - Thanks for showing up!
 - Break coming up, but we will have a meeting next week
@@ -14,29 +13,29 @@ categories: minutes
 
 ---
 
-##Project Status
+#Project Status
 
-#Social Robotics
+##Social Robotics
 
 - Working on data visualization 
 
-#COSI Lab Build
+##COSI Lab Build
 
 - Mark working on it
 - If you have requests, email a package name or customization script 
 
-#OSP
+##OSP
 
 - jQuery 
 
-#CS350 - Group Scheduler
+##CS350 - Group Scheduler
 
 - OSS, but for a class 
 
-#Lifelines
+##Lifelines
 
 - Re-proposal for data aggregation and visualization application by Jeanna 
 
-#Text-to-speech for Android Texting
+##Text-to-speech for Android Texting
 
 - Hands-free phone conversations are allowed, why not hands-free texting? 

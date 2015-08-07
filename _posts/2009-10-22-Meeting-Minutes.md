@@ -1,43 +1,42 @@
 ---
 layout: post
 title: 	"Meeting Minutes: October 22"
-date: 	2009-10-22 19:00:00
 categories: minutes
 ---
 
-##Announcements
+#Announcements
 
 - ACM Programming contest went well, but lacked in organization 
 
 ---
 
-##Project Status
+#Project Status
 
-#SSL Exploit
+##SSL Exploit
 
 - /etc/hosts-based attack and man-in-the-middle attack both working despite minor issues
 - Will be taking wireshark captures 
 
-#KIOSKAR
+##KIOSKAR
 
 - Kiosk working! 
 
-#Screensaver
+##Screensaver
 
 - Working on the wikipedia screensaver
 - Found python libraries for screensaver creation and Mozilla rendering 
 
 ---
 
-##Proposed Projects
+#Proposed Projects
 
-#Procedural Graphics Engine
+##Procedural Graphics Engine
 
 - Would generate textures and models algorithmically instead of based on files 
 
 ---
 
-##Presentations
+#Presentations
 
 - Interviewing workshop after the meeting
 - LaTeX presentation/workshop next week

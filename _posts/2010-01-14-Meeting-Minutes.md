@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 	"Meeting Minutes: January 14"
-date: 	2010-01-14 19:00:00
 categories: minutes
 ---
 
-##Announcements
+#Announcements
 
 - Sam is the new director
 - People who have/want keys should sign up for lab hours
@@ -14,50 +13,50 @@ categories: minutes
 
 ---
 
-##Project Status
+#Project Status
 
-#Docs
+##Docs
 
 - Thanks to Erin for getting the wiki ready for the spring semester.
 
-#Printing
+##Printing
 
 - Printing has been very much reduced!
 
-#OSP
+##OSP
 
 - Load balancing
 - IRCd to drive OSP development 
 
-#Chromium OS
+##Chromium OS
 
 - Todd is looking for someone to support the Chromium OS project.
 
-#Mirror
+##Mirror
 
 - Mirror has transferred 4 PB since March, wow!
 
-#Procedural GFX
+##Procedural GFX
 
 - Developed a game terrain generator as proof of concept for their game engine
 - Uses fractals and PRNG for height-map 
 
-#Sane Sockets
+##Sane Sockets
 
 - Project complete
 
 ---
 
-##New Projects
+#New Projects
 
-#Virtual Atlas
+##Virtual Atlas
 
 - Google Maps mash-up
 - Add data to a map, and an admin interface to make it easy 
 
 ---
 
-##Presentations
+#Presentations
 
 - No scheduled presentation for this evening.
 - Web presentations are scheduled for Tuesdays @ 20:00. 

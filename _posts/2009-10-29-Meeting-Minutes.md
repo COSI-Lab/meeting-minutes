@@ -1,11 +1,10 @@
 ---
 layout: post
 title:  "Meeting Minutes: October 29"
-date:   2009-10-29 19:00:00
 categories: minutes
 ---
 
-##Announcements
+#Announcements
 
 - Hesse (former faculty member) will be presenting on December 3rd
 - ACM presentation next week
@@ -13,18 +12,18 @@ categories: minutes
 
 ---
 
-##Project Status
+#Project Status
 
-#OSCKAR/KIOSK
+##OSCKAR/KIOSK
 
 - Making progress, ready to ghost
 - Working on a malware crawler 
 
-#Social Robotics
+##Social Robotics
 
 - Making progress on convergence of conformity levels 
 
-#OSP
+##OSP
 
 - Got another installation working
 - Fixed JS bug 
