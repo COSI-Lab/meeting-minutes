@@ -24,7 +24,7 @@ categories: minutes
 
 ## COSI subreddit
 - Rust made sure everyone was aware of <https://reddit.com/r/cosi>.
-- 
+
 ## Summer Happenings
 - The people who worked on the labs during the summer discussed things that occured, such as cleaning the entire everything, and building many new servers such as Talos and Phoenix
 
@@ -43,7 +43,7 @@ categories: minutes
 # Project Updates / Announcements
 
 ## 2015-2016 Projects
-- Tons of different projects were described that the labs are planning on working on this year (which can be seen on docs).
+- [Tons of different projects](http://docs.cslabs.clarkson.edu/wiki/2015/2016_Project_Ideas) were described that the labs are planning on working on this year. Contact the project leader or ask around in the labs if you're interested in something!
 
 ## NANOG Announcement
 - Prof. Liu is interested in sending students to the NANOG networking conference in October. Ask him if interested.
