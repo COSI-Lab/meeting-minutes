@@ -36,7 +36,7 @@ categories: minutes
 - Kiki gave a talk about her work at her internship at IBM
 
 ## Daily Programmer Subreddit
-- Baha talked about the https://reddit.com/r/DailyProgrammer subreddit and a possible idea of having weekly programming practice in the labs.
+- Baha talked about the [https://reddit.com/r/DailyProgrammer](DailyProgrammer) subreddit and a possible idea of having weekly programming practice in the labs.
 
 ---
 
