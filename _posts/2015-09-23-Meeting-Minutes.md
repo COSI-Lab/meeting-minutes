@@ -19,7 +19,7 @@ out next week to Alumni.
 
 ## New Switches
 Graham and Rust have found a managed gigabit 24 port switch that we are planning
-to purchase to replace meeting minutes.
+to purchase to replace one of our current switches.
 
 ---
 
