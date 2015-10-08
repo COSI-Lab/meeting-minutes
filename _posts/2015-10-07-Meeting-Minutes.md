@@ -14,6 +14,7 @@ Mike H also suggested more on campus events such as Game Jams or Programming Cha
 
 ## Cornell Maker Event
 Pad is thinking of having people sent down from the labs to Ithaca for a weeklong project at Cornell University. More information will be discovered later.
+
 ## COSI Subdomain
 As soon as Jeanna approves of the subdomain, we will gain cosi.clarkson.edu from OIT again.
 
