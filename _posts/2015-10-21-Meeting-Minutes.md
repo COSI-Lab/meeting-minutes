@@ -29,7 +29,7 @@ Damon Gwinn showed off a cloud based IDE, [Koding](https://koding.com/)
 Benjamin Showed off an algorithm that shows permutations of any character. [Link](libraryofbabel.info)
 
 ## Talks
-Benjamin
+Benjamin created a service to sign up for lightning talks, forum topics, etc. [Talks](http://talks.cslabs.clarkson.edu)
 
 ## Sol
 Graham gave a talk on updates to his programming language, Sol. [Repo](https://github.com/grissess/sol)
