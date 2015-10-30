@@ -8,6 +8,8 @@ categories: minutes
 
 ## Service Status Monitor
 Mike H. wants to get a service to see the status of services in the labs at any moment.
+We once tried Zabbix for this, and it was pretty good as long as it lasted.
+Mike also suggested having a display against the server room glass wall to show status.
 
 ## Mirror Fundraiser
 We're halfway there and Rust will make an update email. We are thinking of making a plaque to put on the server room window for anyone who donated to the new Mirror.
