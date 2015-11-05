@@ -33,7 +33,7 @@ Benjamin showed off a HTML template engine called [Jade](http://jade-lang.com/)
 Bobby showed off apt-file, a tool that allows you to see a package that includes
 specified files.
 
-## Data-Drivn ahlluciantion for different times of day from a single outdoor photo
+## Data-Driven hallucintion for different times of day from a single outdoor photo
 Mike F. showed off an OpenCV paper on simulating time in images. [Paper](http://people.csail.mit.edu/yichangshih/time_lapse/)
 
 ## CodeGirl
