@@ -10,7 +10,7 @@ categories: minutes
 We are unsure who put this on talks... We decided to not get one after some arguments.
 
 ## UPS Replacement Schedule
-Ben wants to replace each UPS after three years. The forum agrees and plans to start buying some. We want to get one from Cyber Power.
+Ben wants to replace each UPS after three years. The forum agrees and plans to start buying some in 2018.
 
 ## Mirror UPS
 We want to get one for Mirror. We agreed that we should get one from APC.
@@ -39,17 +39,17 @@ Adam proposes to Ban gaming during school hours (7:00AM - 7:00PM) on weekdays. M
 
 # Lightning Talks
 
-## [Codepen.io](codepen.io)
+## [Codepen.io](http://codepen.io/)
 Ben presented this site. It let's you quickly test and modify HTML, CSS, and JavaScript. It has support for multiple preprocessors. 
 
 ## Breaking Into VMs
 Graham showed cosi how to break into vms...
 
 ## Glorified Hex Editor
-Gabe T. showed off an editor he made. [Link](www.github.com/tuckergs/modder)
+Gabe T. showed off an editor he made. [Link](https://www.github.com/tuckergs/modder)
 
 ## Verbal Expressions - A RegEx Thing
-Director Ben showed off his RegEx-foo using Verbal Expressions! [Link](verbalexpressions.github.io)
+Director Ben showed off his RegEx-foo using Verbal Expressions! [Link](http://verbalexpressions.github.io)
 
 ## Virtual Hosts on Apache2
 Michael H. presented using the Virtual Host feature on Apache2 server.
@@ -58,23 +58,23 @@ Michael H. presented using the Virtual Host feature on Apache2 server.
 Director Fulton presented a few esoteric programming languages. Languages include Chicken, Shakespeare Programming Language, Chef, Beeswax, and Programming Language. [Esolang Wiki](http://esolangs.org/wiki/Main_Page)
 
 ## Why Programming Sucks
-[This...](stilldrinking.org/programming-sucks)
+[This...](http://stilldrinking.org/programming-sucks)
 
 ## B4B
-[B4B](books4baha.org) is COSI's newest outreach/charity event and how you can be involved!
+[B4B](http://books4baha.org) is COSI's newest outreach/charity event and how you can be involved!
 
  ---
 
 # Project Updates / Announcements
 
 ## Mirror Update
-Ben is now taking lead for the project. Contact bobby for mirror hosting. Ben will be making a new page for mirror [Link](cslabs.clarkson.edu/mirror2016). Talk to ben for info on building mirror.
+Ben is now taking lead for the project. Contact Bobby for mirror hosting. Ben will be making a new page for mirror [Link](http://cslabs.clarkson.edu/mirror2016). Talk to Ben for info on building mirror.
 
-## Docs
-[Look Here](docs.cslabs.clarkson.edu/wiki/2015/2016_Project_Ideas)
+## Project Ideas on Docs
+[Look Here](http://docs.cslabs.clarkson.edu/wiki/2015/2016_Project_Ideas)
 
 ## COSI Does Outreach
-(Hour of Code)[code.org] was hosted by COSI for local schools.
+[Hour of Code](https://code.org/learn) was hosted by COSI for local schools.
 Science Olympiad will be hosed by COSI on Jan. 30st.
 
 ## Key Signing Party
@@ -87,16 +87,16 @@ Graham will be handing off services soon!
 We have it. If you want something on it ask Graham.
 
 ## DubsDot
-Ben and Graham have condensed the web services into a single VM which will host all small web services. It is also a web dev team.
+Ben and Graham will condense the web services into a single VM which will host all small web services. It is also a web dev team.
 
 ## CPR
 We have robots. They are not yet ready for use. Next week will cover the robots.
 
 ## PHP Fsuvius / Fsuvius 2
-Graham needs to finsih the second one.
+Graham needs to finish the second one.
 
-## [Robigalia](robigalia.org)
-It got quite big. 
+## [Robigalia](https://robigalia.org/)
+It is getting popular over the past few weeks. See Graham for more information.
 
 ---
 
