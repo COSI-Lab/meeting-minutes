@@ -70,16 +70,16 @@ Kyle presented how doomed we are with nukes.
 # Project Updates / Announcements
 
 ## Mirror Purchasing Update
-We will be purchasing a UPS for mirror; we will be starting mirror soon.
+We have purchased a UPS for mirror; we will be starting mirror soon.
 
 ## DubsDot
-DubsDot is live! [DubsDot](dubsdot.cosi.clarkson.edu)
+DubsDot is live! [DubsDot](https://dubsdot.cosi.clarkson.edu)
 
 ## Tux Bot
 Tux is also alive! The tuxbot now moves.
 
 ## Transmission
-Kyle made a transmission... 
+Kyle made a 3d-printed car transmission... 
 
 ---
 
