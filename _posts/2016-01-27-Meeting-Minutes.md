@@ -22,21 +22,22 @@ We worry that our master passwords may be at risk. The current lockbox has a cou
 ## Let's Talk About Sol
 Graham gives a talk about Sol! 
 
-## (Gulp)[http://gulpjs.com/]
-A tool to automate workflows!
+## Gulp
+A tool to automate workflows! (Website)[http://gulpjs.com/]
+
 
 ## Accidentally Turing Complete
 Pad presents how to accidentally turing complete. Turing completeness has been accidentally by...
-*DWARF
-*ELF
-*CSS
-*Cellular Automata
-*LaTex
-*Magic: The Gathering
-*D&D 3.5 Combat Rules
+- DWARF
+- ELF
+- CSS
+- Cellular Automata
+- LaTex
+- Magic: The Gathering
+- D&D 3.5 Combat Rules
 
 Honorable Mention
-*COBOL
+- COBOL
 
 ## Pico CMS
 Michael Hrcek showed of [Pico CMS](http://picocms.org/).
