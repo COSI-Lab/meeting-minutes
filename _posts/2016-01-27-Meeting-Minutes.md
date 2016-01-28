@@ -22,7 +22,7 @@ We worry that our master passwords may be at risk. The current lockbox has a cou
 ## Let's Talk About Sol
 Graham gives a talk about Sol! 
 
-## Gulp
+## (Gulp)[http://gulpjs.com/]
 A tool to automate workflows!
 
 ## Accidentally Turing Complete
@@ -39,6 +39,7 @@ Honorable Mention
 *COBOL
 
 ## Pico CMS
+Michael Hrcek showed of [Pico CMS](http://picocms.org/).
 
 ## nand2tetris
 A course that teaches everything from basic boolean logic into writing an OS.
@@ -53,15 +54,13 @@ Jared got a few days worth of footage. Talk to him to see it.
 ## Dubsdot Transfer
 Ben will be working on it.
 
-## Managed Switches Notice
-
 ## Transmission
 Kyle did more with his 3d printed transmission.
 
 ## Key Signing Party Moved
 Pushed to next week due to issues coming up.
 
-## VM Management
+## VM Monitor
 Not up due to network issues.
 
 ## Computer Science Olympiad @ COSI
@@ -78,7 +77,7 @@ We got one! Come read it!
 
 ## Reddit
 Cosi has a subreddit!
-*r/cosi
+[r/cosi](http://reddit.com/r/cosi)
 
 ## ACM Meeting
 Fridays at 3pm. This friday at 4pm.
