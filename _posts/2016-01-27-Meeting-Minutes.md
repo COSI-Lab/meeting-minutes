@@ -23,7 +23,7 @@ We worry that our master passwords may be at risk. The current lockbox has a cou
 Graham gives a talk about Sol! 
 
 ## Gulp
-A tool to automate workflows! [Website](http://gulpjs.com/)
+A tool to automate webdev workflows! [Website](http://gulpjs.com/)
 
 
 ## Accidentally Turing Complete
@@ -53,7 +53,7 @@ A course that teaches everything from basic boolean logic into writing an OS.
 Jared got a few days worth of footage. Talk to him to see it.
 
 ## Dubsdot Transfer
-Ben will be working on it.
+Ben has transfered over Talks, Fsuvius, and Print over to Dubsdot sucessfully.
 
 ## Transmission
 Kyle did more with his 3d printed transmission.
@@ -80,7 +80,7 @@ We got one! Come read it!
 Cosi has a subreddit!
 [r/cosi](http://reddit.com/r/cosi)
 
-## ACM Meeting
+## SUNY Potsdam ACM Meeting
 Fridays at 3pm. This friday at 4pm.
 Dunn Hall 206.
 
