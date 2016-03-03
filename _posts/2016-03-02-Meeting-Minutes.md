@@ -66,6 +66,9 @@ Michael Hrcek will be leading COSI Japanese workshops on Mondays, Tuesdays, and 
 ## Bomb Lab
 James will be running the infamus "bomb lab" from the comporg of old...
 
+## Prof. Liu Summer Research
+Prof. Liu may be able to bring a couple students to do research at an Air Force Lab. Contact him for details.
+
 ---
 
 # After Meeting Slot
