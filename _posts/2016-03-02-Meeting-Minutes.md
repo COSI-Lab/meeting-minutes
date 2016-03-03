@@ -63,6 +63,9 @@ COSI now has a gitlab! [Link](gitlab.cosi.clarkson.edu)
 Michael Hrcek will be leading COSI Japanese workshops on Mondays, Tuesdays, and Thursdays at 6pm to 
 7pm.
 
+## Bomb Lab
+James will be running the infamus "bomb lab" from the comporg of old...
+
 ---
 
 # After Meeting Slot
