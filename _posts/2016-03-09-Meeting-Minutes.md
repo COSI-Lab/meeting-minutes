@@ -42,6 +42,9 @@ Hrcek wants to write a book with the lab.
 ## Job Opening
 [James](mailto:bruskajp@clarkson.edu) has a friend who is looking for an employee. Contact James for more info.
 
+## Documentation Help
+An alum would like to help us write documentation as practice!
+
 ---
 
 # After Meeting Slot
