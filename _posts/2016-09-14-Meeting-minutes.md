@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Meeting Minutes: August 14 2016"
+categories: minutes
+---
+
 Forum
 =====
 
