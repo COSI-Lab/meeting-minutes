@@ -1,3 +1,9 @@
+---
+layout: post
+title: "COSI News: Week of October 30"
+categories: News
+---
+
 Evening everyone,
 
 For some things coming up this week, COSI will be hosting Lockheed Martin this Wednesday. They'll be giving a

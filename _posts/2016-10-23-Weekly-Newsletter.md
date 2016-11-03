@@ -1,3 +1,9 @@
+---
+layout: post
+title: "COSI News: Week of October 23"
+categories: news
+---
+
 Afternoon,
 
 Yesterday, the Clarkson ACM chapter held the 2016-2017 ACM-ICPC in the ITL. There were 27 students from St. Lawrence University,
