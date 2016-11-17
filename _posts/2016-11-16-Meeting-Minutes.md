@@ -16,9 +16,9 @@ Kyle requests to buy a battery for the calipers, and the forum approves.
 Bobby suggests purging the second floor to allow the possible asbestos abatement process to be as easy as possible. We agree to keep anything useful, anything neat and anything memorable, but also agree to talk to Jeanna first.
 
 ## Hack Potsdam Budget idea
-Mike discusses collaborating with SUNY Potsdam to put on a hack Potsdam in the student center, however he wants to contribute to the event using the lab budget.
+Mike discusses our collaboration with SUNY Potsdam to put on Hack Potsdam in the student center next march, and we discussed possibly using the lab budget to help pay for food.
 
-##Floor 2 Ethernet
+## Floor 2 Ethernet
 Jared brings up buying an Ethernet cable to bring the Internet to the second floor.
 
 # Lightning Talk
@@ -27,7 +27,7 @@ Jared brings up buying an Ethernet cable to bring the Internet to the second flo
 Kyle tells about a horror story about computers taking over the world called I have no mouth, but I must scream.
 
 ## Microsoft Tensorflow
-James shows off microsofts deep learning algorithm, which is open source and on more machines is almost double the previous best by Google's deep learning algorithm.
+James shows off Microsoft's deep learning toolkit, CNTK, which is open source and on more machines is almost double the previous best by Google's Tensorflow.
 
 ## Maze Solver
 Carter and Thomas show off the maze solver program they created, and some of its features.
@@ -49,10 +49,10 @@ We mapped COSI with cartographer, and got it working in the first place.
 # Announcements
 
 ## LaTeX Workshop Thursday @ 5:30pm
-Ben announces his plan to give a workshop for LaTeX.
+Ben announces his plan to give a workshop for LaTeX tomorrow.
 
 ## Mapping Workshop!
-Mike tells anyone who is interested that we will be mapping the science center with cartographer.
+Mike tells anyone who is interested that we will be mapping the science center with cartographer Friday night.
 
 ## OS Workshop Sunday @ 1500
 Corey will be giving a workshop for Robigalia.
@@ -60,14 +60,14 @@ Corey will be giving a workshop for Robigalia.
 ## Sign up for Hack Potsdam!
 Ben shows us how to sign up for Hack Potsdam.
 
-##WebDev
+## WebDev
 There will be the normally scheduled meeting at 10:00am.
 
-##Services
-Graham shows off some of the updated wiki's of COSI history.
+## Services
+Graham is bringing back some wiki pages that were previously removed, but now with a deprecated header.
 
-##Processing
-Thomas is going to be holding a workshop on Processing.
+## Processing
+Thomas is going to be holding a workshop on Processing after break.
 
 # After Meeting Slot
 
