@@ -12,7 +12,7 @@ Hunter wants to get a nitro RX480 to do his VR and graphics research on the beas
 ## Shampoo rugs this weekend?
 Kyle wants to shampoo the rugs in the labs, and mike proposes rearanging the setup in the labs. The forum agrees to wait until the second floor is setup again, and we agree to shampooing the floors this on saturday afternoon.
 
-##Gitlab
+## Gitlab
 Jared informs the lab that GitLab will have FERPA information on it, and all administrators need to have FERPA access.
 
 # Lightning Talk
