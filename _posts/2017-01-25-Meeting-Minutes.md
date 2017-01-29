@@ -6,17 +6,16 @@ categories: minutes
 
 # Forum Topics
 
-
 ## COSI Table moving post-discussion
 COSI agree's to keep the table configuration after the great carpet cleaning of 2017.
 
-##Crap Rack
-The forum discusses the future of the crap rack, and the inability to even boot half of them. COSI agrees to look into transfering them into COSI assets and if we can salvage them for parts. 
+## GDC / DDC Rack
+The forum discusses the future of the GDC / DDC Rack, and the inability to even boot half of them. COSI agrees to look into transfering them into COSI assets and if we can salvage them for parts. 
 
-##Arp
+## Arp
 Jared and graham agree to sent a ticket to deal with the amount of arp COSI recieves, which has been doubled.
 
-# Lightning Talk
+# Lightning Talks
 
 ## BossSensor
 Ben shows off a neuro network that trains on images of your boss and uses a camera to detect when your boss is approching to change your screen for you.
@@ -24,7 +23,7 @@ Ben shows off a neuro network that trains on images of your boss and uses a came
 ## The Lean Theorem Prover
 Corey shows off the new LEAN theorem prover created by a microsoft reseacher that works with emacs, Visual Studio Code and in your web browser.
 
-## The New Hacker's Dictionary™
+## The New Hacker's Dictionaryâ„¢
 Graham shows off a new page to undocs which is the New Hackers Dictionary which is a dictionary of some of the word invented in COSI.
 
 # Project Updates
@@ -37,19 +36,19 @@ Ben goes over the COSI web dev meeting and what we want to do with the CS outrea
 ## Robotics Workshop: Mapping, Localization and Navigation (1/28 1:00 PM)
 There will be a robotics workshop on january 28th (saturday) at 1pm.
 
-##Posters!
+## Posters!
 Jared found some old posters in the ITL. 
 
-##Robigalia workshop saturdays, at 16
+## Robigalia workshop saturdays, at 16
 Corey announces that the robigalia workshop is moving to saturdays at 16 in the ITL.
 
-##Chess club sundays, 15-17 at the concrete cafe
+## Chess club sundays, 15-17 at the concrete cafe
 Corey announces the newley formed chess club.
 
-##CS Outreach
+## CS Outreach
 COSI has decided to create an overarching program to unite all of out outreach called CS outreach.
 
-##Hack Potsdam: Sign Up!
+## Hack Potsdam: Sign Up!
 Ben tells the lab that 144 people have signed up for Hack Potsdam so far.
 
 # After Meeting Slot
