@@ -32,32 +32,32 @@ Mike shows off his Alexa skill called Spelling Guru which he wrote in about 30 m
 ## AGM Batteries
 Kyle shows off a youtube video about AGM batteries, which is what all of the labs UPS's run on. 
 
-##Syslog Stuff: In Case We Get Pwned
+## Syslog Stuff: In Case We Get Pwned
 Jake shows off a program that logs the traffic on our servers for security reasons. 
 
 # Project Updates
 
-##VPN
+## VPN
 Milton created an open VPN server.
 
-##Robotics
+## Robotics
 Robotics will most likely meet this saturday.
 
 # Announcements
 
-##VR Game Jam
+## VR Game Jam
 Hunter is hosting a VR game jam next saturday in the labs.
 
-##Two Job Offers
-Jeana tells the lab that there is a co-op oportunity availible through NVidea and job making a website for a local meet packig company.
+## Two Job Offers
+Jeanna tells the lab that there is a co-op oportunity availible through Nvidia and job making a website for a local meat packing company.
 
-##Mirror milestone: almost 0.25PB
-Ben tells the lab that 248.93 TB worth of traffic running through mirror.
+## Mirror milestone: almost 0.25PB
+Ben tells the lab that we'll be hitting 250TB of bandwidth through the new iteration of Mirror since it was created in April.
 
-##CD backup
-Bobby found an old CD backup wich noted the milestone of 1 TB of bandwidth.
+## CD backup
+Bobby found an old CD backup wich noted the milestone of 1 TB of bandwidth on the first iteration of Mirror in 2004, as well as other historical items
 
 # After Meeting Slot
 
-## (2/1) Alexa Skills Workshop
+## Alexa Skills Workshop
 Mike shows off how to build an alexa skill in the ITL.
