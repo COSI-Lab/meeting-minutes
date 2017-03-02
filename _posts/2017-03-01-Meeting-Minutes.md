@@ -52,7 +52,7 @@ Jared and Graham are creating a ticketing system for COSI.
 ## Hack Potsdam this Saturday
 Ben announces that the doors for Hack Potsdam will open at 11am ish. Mike adds that there will be many talks at the event, and that we could use volenteers. 
 
-## Talks Upgrade soon?™
+## Talks Upgrade soon?â„¢
 Ben announces that Talks will be upgraded sometime soon.
 
 ## March 8 and 9; Adirondack Atlas
@@ -67,4 +67,4 @@ Jeanna is playing a film related to computer security on the 15th.
 # After Meeting Slot
 
 ## Keyboard Cleaning Workshop
-Kyle is croud scourcing labor to clean all the keyboards in COSI.
+Kyle is crowd scourcing labor to clean all the keyboards in COSI.
