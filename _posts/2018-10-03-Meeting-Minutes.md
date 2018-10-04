@@ -10,7 +10,7 @@ categories: minutes
 Anthony Rinaldo - wants to take Melter to hack upstate, this is fine with everyone
 
 ## Buy battery plz thanks
-Bobby - we need a new ups for one of the servers, cost of $47
+Bobby - we need a new ups battery for one of the servers, the cost is $47
 
 ## Landfill-Sticker, The source of all evil?
 Brian - one of the trashcans has a sticker that says landfill on it, and they are here to petition against it
