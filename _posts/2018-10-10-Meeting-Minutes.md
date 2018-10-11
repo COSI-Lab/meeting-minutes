@@ -84,5 +84,7 @@ G. Bagel - Sunday at the usual time (9pm-ish), can meet earlier if better for pe
 # After Meeting Slot
 
 ## Soda Run
+Grm - 
 
 ## Find Jared for Ampersand Hike Info, NANOG Netflix Talk, Perfsonar Info	
+Jared - 
