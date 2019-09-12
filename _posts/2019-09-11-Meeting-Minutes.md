@@ -79,12 +79,12 @@ Jrd - Electrical Age for Minecraft, check it out.
 # Announcements
 
 ## Hack Upstate
-Jeanna - HAck upstate is 10/5-10/6 !!!
+Jeanna - Hack upstate is 10/5-10/6 !!!
 
 ## Water handling apparatus v2
 Grm - "I belive I've reinvented the toilet"
 
-##Charles Cameron
+## Charles Cameron
 Jeanna - He ran the networks here before OIT, He has some books to give. He also would like to give a lightning talk or an aftermeeting slot. 
 
 # After Meeting Slot
