@@ -112,10 +112,6 @@ Jeanna - MP*, Everybody should start a page for,
 
 Jeanna - New software is being added to the ITL for security. 
 
-## Star trek
-
-Hunter - love live sunshine 9:00 on Friday
-
 # After Meeting Slot
 
 ## Rearrange the lab
