@@ -77,7 +77,7 @@ Jake - Can help people get started with OS dev.
 
 ## Papa John's Day of Reckoning 3: The Final Showdown
 
-Jsh & Chris - 
+Jsh & Chris - Chris accends to his final form. 
 
 # After Meeting Slot
 
